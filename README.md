@@ -17,4 +17,4 @@ VomarV/VomarV is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <br><br>
-<a href="https://discord.gg/Bqpcy8sN"><img src="https://invidget.switchblade.xyz/Bqpcy8sN"/></a>
+<a href="https://discord.gg/GqkKSdsDrh"><img src="https://invidget.switchblade.xyz/GqkKSdsDrh"/></a>
