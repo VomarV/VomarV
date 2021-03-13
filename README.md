@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VomarV
-- 👀 I’m interested in البرمجة
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 📫 How to reach me Discord : https://discord.gg/GqkKSdsDrh
 
