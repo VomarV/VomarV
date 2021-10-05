@@ -6,7 +6,7 @@
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-Sharp&logoColor=00599C)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=007396)
-  ![Py](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Python&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <!---
