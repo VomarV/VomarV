@@ -5,10 +5,10 @@
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-Sharp&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=007396)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-
+  ![Py](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Python&logoColor=007396)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <!---
 VomarV/VomarV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
