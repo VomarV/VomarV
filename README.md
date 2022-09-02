@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m @VomarV**
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 📫 How to reach me Discord : https://discord.gg/GqkKSdsDrh
+- 👀 **I’m interested in programming**
+- 🌱 **I’m currently learning C#**
+- 📫 How to reach me Discord : https://discord.gg/VeFBXyDw97
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-Sharp&logoColor=00599C)
