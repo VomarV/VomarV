@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ibb.co/JCmdB5Z">
-    <img src="https://cdn.discordapp.com/attachments/844198879960629288/1277093021829169162/3624741a-b1cb-4b25-8bde-f88deef12c2c.webp?ex=678523cf&is=6783d24f&hm=71553597763c7ee983f866789f87fe95779ebfbf6bebd2745378f843e9a118c2&" alt="2323" border="0" />
+    <img src="https://media.discordapp.net/attachments/844198879960629288/1277093021829169162/3624741a-b1cb-4b25-8bde-f88deef12c2c.webp?ex=67b5eb4f&is=67b499cf&hm=248264fadaeee99b8e931caf02ee748e35c29757a33897ad4a500a5baf14c2e5&=&format=webp&width=720&height=411" alt="2323" border="0" />
   </a>
   
   <h1>Hi 👋, I'm Omar</h1>
