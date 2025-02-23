@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://ibb.co/JCmdB5Z">
-    <img src="https://media.discordapp.net/attachments/844198879960629288/1277093021829169162/3624741a-b1cb-4b25-8bde-f88deef12c2c.webp?ex=67b5eb4f&is=67b499cf&hm=248264fadaeee99b8e931caf02ee748e35c29757a33897ad4a500a5baf14c2e5&=&format=webp&width=720&height=411" alt="2323" border="0" />
+    <img src="https://media.discordapp.net/attachments/844198879960629288/1277093021829169162/3624741a-b1cb-4b25-8bde-f88deef12c2c.webp?ex=67bbda0f&is=67ba888f&hm=4591da4dd397ed9a14b75a54c393776b7f4829a152a5b6979c9d95ebb499447d&=&format=webp&width=1175&height=671" alt="2323" border="0" />
   </a>
+
+
   
   <h1>Hi 👋, I'm Omar</h1>
   <h3>Backend Developer | Tech Enthusiast | Passionate about Clean Code</h3>
